@@ -5,10 +5,6 @@
 <p>Pantalla inicial que se muestra brevemente al abrir la app, mientras se carga el contenido principal.</p>
 <img src="https://github.com/user-attachments/assets/a0331c24-f146-4919-80c8-aeb1e33f369e" width="300px">
 
-<h2>Splash Screen</h2>
-<p>Pantalla inicial que se muestra brevemente al abrir la app, mientras se carga el contenido principal.</p>
-<img src="https://github.com/user-attachments/assets/a0331c24-f146-4919-80c8-aeb1e33f369e" width="300px">
-
 <h2>Pantalla home</h2>
 <p>Pantalla del contenido principal de la app, en este caso los juegos de la plataforma</p>
 <img src="https://github.com/user-attachments/assets/7637484a-05ea-44e3-af49-38c859b7ef68" width="300px">
