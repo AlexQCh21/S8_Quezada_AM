@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    Mis colores-->
+    <color name="header_menu_color">#171D25</color>
+    <color name="appBackground">#1A2A3B</color>
+    <color name="nav_selected_item">#E8DEF8</color>
+    <color name="item_selected">#171D25</color>
+    <color name="item_unselected">#E8DEF8</color>
+    <color name="cards_game">#29445A</color>
+    <color name="border_color_cards_category">#E8DEF8</color>
+</resources>
