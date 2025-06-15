@@ -11,10 +11,6 @@
 
 <h2>Pantalla de categorías</h2>
 <p>Pantalla inicial que se muestra brevemente al abrir la app, mientras se carga el contenido principal.</p>
-<img src="https://github.com/user-attachments/assets/1cc284b6-d799-4cc6-b96c-0017651171d9" width="300px">
-
-<h2>Pantalla de categorías</h2>
-<p>Pantalla inicial que se muestra brevemente al abrir la app, mientras se carga el contenido principal.</p>
 <img src="https://github.com/user-attachments/assets/1ed6862b-773b-4419-a515-9b7cf0673e84" width="300px">
 
 <h2>Pantalla de descuentos</h2>
